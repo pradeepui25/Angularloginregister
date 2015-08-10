@@ -1,0 +1,21 @@
+{
+  "name": "Angular Login Sample",
+  "description": "Angular Login Sample",
+  "version": "0.0.1",
+  "homepage": "http://localhost:8000/",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "angular-mocks": "1.4.x"
+  },
+  "dependencies": {
+    "angular": "1.4.x",
+    "jquery": "~2.1.1",
+    "angular-route": "1.4.x",
+    "angular-resource": "1.4.x",
+    "bootstrap": "~3.3.4",
+	"font-awesome": "~4.3.0",
+    "angular-bootstrap": "~0.x.x",
+    "angular-cookies": "1.2.x"
+  }
+}
